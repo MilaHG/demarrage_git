@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Git - Exo 1</title>
+	<style>
+		*{
+			box-sizing: border-box;
+		}
+		ol{
+			width: 45%;
+			margin: 5px;
+			padding: 5px;
+			float: left;
+			background-color: lightsteelblue;
+			border-radius: 12px;
+		}
+		li{
+			margin-left: 20px;
+		}
+	</style>
+</head>
+<body>
+	<ol>
+		<p>Questions</p>
+		<li>Quand a été créé le langage JavaScript ? (Réponse de A) </li>
+		<li>Quelle organisation définit les standards du Web ? (Réponse de B)</li>
+		<li>HTML a été proposé pour la première fois en quelle année ? (Réponse de C - ou de A en groupe de 2)</li>
+		<li>Qui est l’auteur principal du HTML ?</li>
+		<li>Quelle norme HTML n’exige pas des double quotes (guillemets) autour des valeurs d’un attribut ?</li>
+		<li>Quel sélecteur CSS utiliser pour définir le style d’un seul élément dans une page HTML ? </li>
+		<li>Créer une seconde page accessible avec un lien cliquable sur celle-ci</li>
+		<li>Par quel moyen je rend la couleur de fond de mes titres transparente sans affecter le texte lui-même ? </li>
+		<li>Quels sont les éléments d'une architecture 3 tiers ?</li>
+		<li>HTML n'est pas un langage de programmation, c'est un langage de ... ?</li>
+	</ol>
+	<ol>
+		<p>Réponses</p>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ol>
+</body>
+</html>
